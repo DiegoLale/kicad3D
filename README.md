@@ -6,4 +6,4 @@ La razón es que kicad entiende las unidades en pulgadas al importar el modelo 3
 
 
 
-1 enero 2017 añadido alojamiento para baterías CR123A o 16340
+#1 enero 2017 añadido alojamiento para baterías CR123A o 16340
